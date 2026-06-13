@@ -1,0 +1,15 @@
+﻿"Symbol";"Value";"Unit";
+"Mounting";"B3";"";
+"Power";"2,20 (kW)";"";
+"TraceParts.PartVersion";"1.0.1";"";
+"SUPPLIER";"HOYER";"";
+"Frame_Size";"112";"";
+"Poles";"6";"";
+"TraceParts.PartNumber";"90-20022018-049497";"";
+"TraceParts.PartLanguage";"en";"";
+"DESIGN";"IE3 Electric Motor 112l 6p B3";"";
+"TraceParts.InstanceId";"90-20022018-0494972ZGMMKQV9EZN1Y6AZLW16P7FQ";"";
+"TraceParts.PartTitle";"IE3 Electric Motor - Frame Size 112";"";
+"REFERENCE";"5561120109";"";
+"TRACEPARTS";"TRACEPARTS";"";
+"Voltage";"230VD/400VY";"";
